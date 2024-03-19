@@ -1,2 +1,7 @@
 What shite is this?
+<<<<<<< HEAD
 WTFF
+=======
+WTFF
+WGAF
+>>>>>>> personal_quotes
