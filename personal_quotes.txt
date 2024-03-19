@@ -1,7 +1,13 @@
 What shite is this?
 <<<<<<< HEAD
 WTFF
+<<<<<<< HEAD
 =======
 WTFF
 WGAF
+>>>>>>> personal_quotes
+=======
+WGAF
+shiteshite
+shiteshhhd
 >>>>>>> personal_quotes
